@@ -7,3 +7,12 @@ D:\CS-285\Assn2_Ch2\Prob_2\Prob__2\obj\Debug\netcoreapp1.1\Prob__2.csproj.CoreCo
 D:\CS-285\Assn2_Ch2\Prob_2\Prob__2\obj\Debug\netcoreapp1.1\Prob__2.AssemblyInfo.cs
 D:\CS-285\Assn2_Ch2\Prob_2\Prob__2\obj\Debug\netcoreapp1.1\Prob__2.dll
 D:\CS-285\Assn2_Ch2\Prob_2\Prob__2\obj\Debug\netcoreapp1.1\Prob__2.pdb
+D:\CS-285\Assn2_Ch2\Ch2_Prob2\Prob_2\bin\Debug\netcoreapp1.1\Prob__2.deps.json
+D:\CS-285\Assn2_Ch2\Ch2_Prob2\Prob_2\bin\Debug\netcoreapp1.1\Prob__2.runtimeconfig.json
+D:\CS-285\Assn2_Ch2\Ch2_Prob2\Prob_2\bin\Debug\netcoreapp1.1\Prob__2.runtimeconfig.dev.json
+D:\CS-285\Assn2_Ch2\Ch2_Prob2\Prob_2\obj\Debug\netcoreapp1.1\Prob__2.csproj.CoreCompileInputs.cache
+D:\CS-285\Assn2_Ch2\Ch2_Prob2\Prob_2\obj\Debug\netcoreapp1.1\Prob__2.AssemblyInfo.cs
+D:\CS-285\Assn2_Ch2\Ch2_Prob2\Prob_2\obj\Debug\netcoreapp1.1\Prob__2.dll
+D:\CS-285\Assn2_Ch2\Ch2_Prob2\Prob_2\obj\Debug\netcoreapp1.1\Prob__2.pdb
+D:\CS-285\Assn2_Ch2\Ch2_Prob2\Prob_2\bin\Debug\netcoreapp1.1\Prob__2.dll
+D:\CS-285\Assn2_Ch2\Ch2_Prob2\Prob_2\bin\Debug\netcoreapp1.1\Prob__2.pdb
