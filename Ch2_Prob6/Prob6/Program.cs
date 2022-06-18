@@ -7,7 +7,7 @@ namespace Prob6
         static void Main()
         {
 
-
+                
 
         }
     }
