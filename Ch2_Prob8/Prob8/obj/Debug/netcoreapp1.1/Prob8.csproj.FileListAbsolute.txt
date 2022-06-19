@@ -1,0 +1,9 @@
+D:\CS-285\Assn2_Ch2\Ch2_Prob8\Prob8\bin\Debug\netcoreapp1.1\Prob8.deps.json
+D:\CS-285\Assn2_Ch2\Ch2_Prob8\Prob8\bin\Debug\netcoreapp1.1\Prob8.runtimeconfig.json
+D:\CS-285\Assn2_Ch2\Ch2_Prob8\Prob8\bin\Debug\netcoreapp1.1\Prob8.runtimeconfig.dev.json
+D:\CS-285\Assn2_Ch2\Ch2_Prob8\Prob8\bin\Debug\netcoreapp1.1\Prob8.dll
+D:\CS-285\Assn2_Ch2\Ch2_Prob8\Prob8\bin\Debug\netcoreapp1.1\Prob8.pdb
+D:\CS-285\Assn2_Ch2\Ch2_Prob8\Prob8\obj\Debug\netcoreapp1.1\Prob8.csproj.CoreCompileInputs.cache
+D:\CS-285\Assn2_Ch2\Ch2_Prob8\Prob8\obj\Debug\netcoreapp1.1\Prob8.AssemblyInfo.cs
+D:\CS-285\Assn2_Ch2\Ch2_Prob8\Prob8\obj\Debug\netcoreapp1.1\Prob8.dll
+D:\CS-285\Assn2_Ch2\Ch2_Prob8\Prob8\obj\Debug\netcoreapp1.1\Prob8.pdb

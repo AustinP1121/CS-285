@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Ch2_Prob2/Prob_2/bin/Debug/netcoreapp1.1/Prob__2.dll",
+            "program": "${workspaceFolder}/Assn2_Ch2/Ch2_Prob8/Prob8/Prob8.csproj",
             "args": [],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
