@@ -7163,11 +7163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CS-285\\Assn2_Ch2\\Prob6\\Prob6.csproj",
+      "projectUniqueName": "D:\\CS-285\\Assn2_Ch2\\Ch2_Prob6\\Prob6\\Prob6.csproj",
       "projectName": "Prob6",
-      "projectPath": "D:\\CS-285\\Assn2_Ch2\\Prob6\\Prob6.csproj",
+      "projectPath": "D:\\CS-285\\Assn2_Ch2\\Ch2_Prob6\\Prob6\\Prob6.csproj",
       "packagesPath": "C:\\Users\\hydra\\.nuget\\packages\\",
-      "outputPath": "D:\\CS-285\\Assn2_Ch2\\Prob6\\obj\\",
+      "outputPath": "D:\\CS-285\\Assn2_Ch2\\Ch2_Prob6\\Prob6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hydra\\AppData\\Roaming\\NuGet\\NuGet.Config"

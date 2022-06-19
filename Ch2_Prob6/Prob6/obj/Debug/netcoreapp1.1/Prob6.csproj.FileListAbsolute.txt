@@ -1,0 +1,9 @@
+D:\CS-285\Assn2_Ch2\Ch2_Prob6\Prob6\bin\Debug\netcoreapp1.1\Prob6.deps.json
+D:\CS-285\Assn2_Ch2\Ch2_Prob6\Prob6\bin\Debug\netcoreapp1.1\Prob6.runtimeconfig.json
+D:\CS-285\Assn2_Ch2\Ch2_Prob6\Prob6\bin\Debug\netcoreapp1.1\Prob6.runtimeconfig.dev.json
+D:\CS-285\Assn2_Ch2\Ch2_Prob6\Prob6\obj\Debug\netcoreapp1.1\Prob6.csproj.CoreCompileInputs.cache
+D:\CS-285\Assn2_Ch2\Ch2_Prob6\Prob6\obj\Debug\netcoreapp1.1\Prob6.AssemblyInfo.cs
+D:\CS-285\Assn2_Ch2\Ch2_Prob6\Prob6\bin\Debug\netcoreapp1.1\Prob6.dll
+D:\CS-285\Assn2_Ch2\Ch2_Prob6\Prob6\bin\Debug\netcoreapp1.1\Prob6.pdb
+D:\CS-285\Assn2_Ch2\Ch2_Prob6\Prob6\obj\Debug\netcoreapp1.1\Prob6.dll
+D:\CS-285\Assn2_Ch2\Ch2_Prob6\Prob6\obj\Debug\netcoreapp1.1\Prob6.pdb
