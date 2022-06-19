@@ -1,4 +1,5 @@
 ﻿/*
+
  Assignment #2 
  Problem #6
  CS-285
@@ -10,7 +11,7 @@
     various costs from their gross pay. The employee's earnings are computed from their
     overall commision of their total sales. After, the secondary costs, such as various 
     taxes and retirement funds, are deducted to calculate the employee's total pay.
-     
+
 */
 
 using System;
@@ -23,6 +24,7 @@ namespace Pay
         static void Main()
         {
 
+            //constant and variable initialization
             const string employeeName = "Joshua Montain";
             const decimal grossSales = 161432M;
             const decimal commission = .07M;
@@ -31,9 +33,11 @@ namespace Pay
             decimal retireFund = earnings * .10M; 
             decimal socialSec = earnings * .06M;
             
+            //compute total deductions and total take home pay
             decimal totalDeductions = fedTax + retireFund + socialSec;
             decimal totalPay = earnings - totalDeductions;
 
+            //format and output employee pay report
             WriteLine("\t\t***Employee Pay Report***\n");
             WriteLine("Employee: {0}\n\tTotal Sales: {1,-40:C}\n\tEarnings: {2,13:C}", 
                 employeeName, grossSales, earnings);

@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "Assn2_Ch2/Ch2_Prob2/Prob_2/bin/Debug/netcoreapp1.1/Prob__2.dll",
+            "program": "${workspaceFolder}/Ch2_Prob2/Prob_2/bin/Debug/netcoreapp1.1/Prob__2.dll",
             "args": [],
-            "cwd": "Assn2_Ch2",
+            "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "console": "internalConsole"
         }
